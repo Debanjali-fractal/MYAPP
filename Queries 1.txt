@@ -1,0 +1,33 @@
+Sample Questions:
+--------------------------------
+How many new cancer cases were reported in the previous year?
+
+Number of new cancer patients by year?
+
+What are the most common types of cancer reported in our registry?
+
+How does cancer cases vary by age group, gender & nationality?
+
+What is the distribution of cancer cases by Type at diagnosis?
+
+What are the cancer cases by Encounter Type?
+
+How many cancer cases have undergone treatment?
+
+How long is the cancer treatment?
+
+Number of encounters by age and gender of patients? Break down by year
+
+How many patients have non-malignant tumours? How many encounters these patients had by year?
+
+What are the top providers of cancer care?
+
+What are the top providers for non-malignant tumours?
+
+ALOS of cancer and non-cancer encounters? Break down by year. Is it changing?
+
+Cancer readmissions by year? By age and gender?
+
+Average age of cancer patients? By year. By gender. By provider...
+
+Top specialties providing cancer treatment? Average age of patients for these. By gender..

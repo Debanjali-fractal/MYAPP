@@ -1,0 +1,14 @@
+pandas
+langchain-experimental
+google-generativeai
+google-generativeai
+langchain
+langchain-experimental
+langchain-google-genai
+langchain-community 
+langchain-openai
+google-generativeai 
+langchain-google-genai 
+streamlit
+chainlit
+tabulate
